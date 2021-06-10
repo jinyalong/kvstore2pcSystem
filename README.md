@@ -1,0 +1,2 @@
+# kvstore2pcSystem
+2PC实现分布式一致性的KVStore
